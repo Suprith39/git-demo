@@ -1,1 +1,3 @@
 hellooooooo
+conflicting line
+adding resolving line
